@@ -1,1 +1,1 @@
-# DharmikBhisara6-water-pollution-cnn-project
+water-pollution-cnn-project
